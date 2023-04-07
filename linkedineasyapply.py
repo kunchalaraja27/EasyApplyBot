@@ -18,6 +18,7 @@ class LinkedinEasyApply:
         self.poster_blacklist = parameters.get('posterBlacklist', []) or []
         self.positions = parameters.get('positions', [])
         self.locations = parameters.get('locations', [])
+        self.industry = parameters.get('industry', [])
         self.base_search_url = self.get_base_search_url(parameters)
         self.seen_jobs = []
         self.file_name = "output"
