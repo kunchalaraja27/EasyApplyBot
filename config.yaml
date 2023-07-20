@@ -1,5 +1,5 @@
-email: saiprasad.annamanenidevops369@gmail.com
-password: sai369569
+email: kunchalaraja11@gmail.com
+password: Kunchala@27
 
 disableAntiLock: False
 
@@ -57,7 +57,7 @@ posterBlacklist:
  #- name2
 
 uploads:
- resume: C:\Users\myDirectory\Resume.pdf
+ resume: c:\Users\Admin\Desktop\gateway.pdf
  # Cover letter is optional
  #coverLetter: C:\Users\myDirectory\CoverLettter.pdf
 
@@ -124,15 +124,15 @@ experience:
 
 # ------------ Additional parameters: personal info ---------------
 personalInfo:
- First Name: Sai Prasad
- Last Name: Annamaneni
+ First Name: Raja Kunchala
+ Last Name: Kunchala
  Phone Country Code: India (+91) # See linkedin for your country code, must be exact according to the international platform, i.e. Italy (+39) not Italia (+39)
- Mobile Phone Number: 8639188100
- Street address: Dilsukhnagar
+ Mobile Phone Number: 7659054713
+ Street address: Uppal
  City: Hyderabad # Include the state/province as well!
  State: Telangana
- Zip: 500060
- Linkedin: https://www.linkedin.com/in/sai-prasad-annamaneni-8b5b44249/
+ Zip: 500027
+ Linkedin: https://www.linkedin.com/in/kunchala-raja-8b1217282
 
 
 # ------------ Additional parameters: USA employment crap ---------------
